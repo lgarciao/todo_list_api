@@ -230,5 +230,5 @@ La cobertura mínima esperada es de **75%**.
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT.
-
+ 
 ---
